@@ -1,0 +1,46 @@
+21:58:41.140 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+21:58:43.515 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+21:58:43.587 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+21:58:46.672 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+21:58:49.338 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+22:01:12.578 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\Prasad coding\Selenium\Automation_Framework1\Execution_Xml_Files\Tutorialsninja_Groupwise_Execution.xml
+
+22:01:13.018 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+22:01:13.116 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+22:12:47.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\Prasad coding\Selenium\Automation_Framework1\Execution_Xml_Files\Tutorialsninja_Groupwise_Execution.xml
+
+22:12:53.443 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+22:12:53.690 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+22:12:54.155 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+22:12:54.159 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+22:12:56.370 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+22:12:56.460 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+22:13:00.043 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+22:13:02.021 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+22:14:51.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\Prasad coding\Selenium\Automation_Framework1\Execution_Xml_Files\Tutorialsninja_Groupwise_Execution.xml
+
+22:14:54.881 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+22:14:55.148 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+22:14:55.555 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+22:14:55.558 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+22:14:58.084 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+22:14:58.209 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+22:15:01.624 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+22:15:04.236 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+23:36:41.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\Prasad coding\Selenium\Automation_Framework1\Execution_Xml_Files\Tutorialsninja_SingleBrowser_Execution.xml
+
+23:36:45.217 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:36:45.427 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:36:45.808 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+23:36:45.811 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+23:36:47.652 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+23:36:47.740 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+23:36:50.773 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+23:36:52.528 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+23:37:49.266 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\Prasad coding\Selenium\Automation_Framework1\Execution_Xml_Files\Tutorialsninja_SingleBrowser_Execution.xml
+

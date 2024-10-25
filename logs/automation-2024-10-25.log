@@ -1,0 +1,40 @@
+18:06:21.786 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+18:06:23.234 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+18:06:23.283 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+18:06:25.405 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+18:06:26.916 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+15:58:27.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\Prasad coding\Selenium\Automation_Framework1\Execution_Xml_Files\Tutorialsninja_SingleBrowser_Execution.xml
+
+15:58:33.065 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+15:58:33.307 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+15:58:33.713 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+15:58:33.733 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+15:58:35.662 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+15:58:35.732 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+15:58:38.645 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+15:58:40.575 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+16:02:18.335 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+16:02:18.507 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+16:02:18.898 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+16:02:18.903 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+16:02:20.963 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+16:02:21.037 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+16:02:24.299 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+16:02:26.233 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+16:03:29.748 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+16:03:29.945 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+16:03:30.345 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+16:03:30.350 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+16:03:32.374 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+16:03:32.439 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+16:03:35.244 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+16:03:37.234 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+16:38:32.952 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+16:38:33.139 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+16:38:33.524 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+16:38:33.533 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+16:38:35.695 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+16:38:35.781 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+16:38:39.095 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+16:38:40.932 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********

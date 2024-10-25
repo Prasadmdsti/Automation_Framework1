@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-25T15:58:27 IST" name="My Suite1" finished-at="2024-10-25T15:58:40 IST" duration-ms="13293">
+    <groups>
+      <group name="Master">
+        <method signature="TC001_Tutorialsninja_AccountRegistration_Test.Test_Account_Registration()[pri:0, instance:testCases.TC001_Tutorialsninja_AccountRegistration_Test@2baa8d82]" name="Test_Account_Registration" class="testCases.TC001_Tutorialsninja_AccountRegistration_Test"/>
+        <method signature="TC002_Tutorialsninja_Login_Test.Login_Test()[pri:0, instance:testCases.TC002_Tutorialsninja_Login_Test@a7e2d9d]" name="Login_Test" class="testCases.TC002_Tutorialsninja_Login_Test"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC002_Tutorialsninja_Login_Test.Login_Test()[pri:0, instance:testCases.TC002_Tutorialsninja_Login_Test@a7e2d9d]" name="Login_Test" class="testCases.TC002_Tutorialsninja_Login_Test"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC001_Tutorialsninja_AccountRegistration_Test.Test_Account_Registration()[pri:0, instance:testCases.TC001_Tutorialsninja_AccountRegistration_Test@2baa8d82]" name="Test_Account_Registration" class="testCases.TC001_Tutorialsninja_AccountRegistration_Test"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-10-25T15:58:27 IST" name="My Test1" finished-at="2024-10-25T15:58:40 IST" duration-ms="13293">
+      <class name="testCases.TC001_Tutorialsninja_AccountRegistration_Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_Tutorialsninja_AccountRegistration_Test@2baa8d82]" started-at="2024-10-25T15:58:28 IST" name="setup" finished-at="2024-10-25T15:58:33 IST" duration-ms="4984" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test_Account_Registration()[pri:0, instance:testCases.TC001_Tutorialsninja_AccountRegistration_Test@2baa8d82]" started-at="2024-10-25T15:58:33 IST" name="Test_Account_Registration" finished-at="2024-10-25T15:58:35 IST" duration-ms="2692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Account_Registration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC001_Tutorialsninja_AccountRegistration_Test@2baa8d82]" started-at="2024-10-25T15:58:35 IST" name="teardown" finished-at="2024-10-25T15:58:36 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC001_Tutorialsninja_AccountRegistration_Test -->
+      <class name="testCases.TC002_Tutorialsninja_Login_Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Tutorialsninja_Login_Test@a7e2d9d]" started-at="2024-10-25T15:58:36 IST" name="setup" finished-at="2024-10-25T15:58:38 IST" duration-ms="2601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login_Test()[pri:0, instance:testCases.TC002_Tutorialsninja_Login_Test@a7e2d9d]" started-at="2024-10-25T15:58:38 IST" name="Login_Test" finished-at="2024-10-25T15:58:40 IST" duration-ms="1942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC002_Tutorialsninja_Login_Test@a7e2d9d]" started-at="2024-10-25T15:58:40 IST" name="teardown" finished-at="2024-10-25T15:58:40 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC002_Tutorialsninja_Login_Test -->
+    </test> <!-- My Test1 -->
+  </suite> <!-- My Suite1 -->
+</testng-results>

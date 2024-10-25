@@ -1,0 +1,39 @@
+23:37:52.671 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:37:52.871 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:37:53.212 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+23:37:53.214 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+23:37:55.052 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+23:37:55.132 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+23:37:57.693 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+23:37:59.603 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+23:57:15.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\Prasad coding\Selenium\Automation_Framework1\Execution_Xml_Files\Tutorialsninja_Parallel_And_CrossBrowser_Execution.xml
+
+23:57:20.573 [TestNG-tests-1] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:57:21.374 [TestNG-tests-1] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:57:22.074 [TestNG-tests-1] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+23:57:22.078 [TestNG-tests-1] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+23:57:24.264 [TestNG-tests-2] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:57:24.509 [TestNG-tests-2] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:57:25.063 [TestNG-tests-2] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+23:57:25.064 [TestNG-tests-2] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+23:57:26.448 [TestNG-tests-1] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+23:57:26.674 [TestNG-tests-1] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+23:57:27.324 [TestNG-tests-2] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+23:57:27.754 [TestNG-tests-2] ERROR testCases.TC001_Tutorialsninja_AccountRegistration_Test - Test failed....
+23:57:29.648 [TestNG-tests-3] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:57:29.970 [TestNG-tests-3] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+23:57:31.918 [TestNG-tests-1] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+23:57:37.766 [TestNG-tests-2] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+23:57:40.426 [TestNG-tests-2] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+23:57:44.947 [TestNG-tests-3] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+23:57:46.916 [TestNG-tests-3] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+00:00:31.681 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\Prasad coding\Selenium\Automation_Framework1\Execution_Xml_Files\Tutorialsninja_Parallel_And_CrossBrowser_Execution.xml
+
+00:00:32.012 [TestNG-tests-3] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+00:00:32.118 [TestNG-tests-3] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+00:00:36.613 [TestNG-tests-1] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+00:00:36.629 [TestNG-tests-2] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+00:00:36.842 [TestNG-tests-1] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+00:00:36.904 [TestNG-tests-2] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********

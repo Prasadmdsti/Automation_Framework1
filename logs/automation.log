@@ -1,0 +1,16 @@
+16:59:48.957 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+16:59:49.210 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+16:59:49.559 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+16:59:49.574 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+16:59:51.511 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+16:59:51.570 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+16:59:54.442 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+16:59:56.151 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
+17:35:40.196 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+17:35:40.388 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******starting TC001_AccountRegistrationTest**********
+17:35:40.743 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ********* myaccclick**********
+17:35:40.743 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Registration fields filling**********
+17:35:42.424 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Assertion checking**********
+17:35:42.480 [main] INFO  testCases.TC001_Tutorialsninja_AccountRegistration_Test - ******Finished TC001_AccountRegistrationTest**********
+17:35:45.380 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******starting TC002_Tutorialsninja_Login_Test**********
+17:35:46.995 [main] INFO  testCases.TC002_Tutorialsninja_Login_Test - ******finish TC002_Tutorialsninja_Login_Test**********
